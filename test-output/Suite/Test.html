@@ -1,0 +1,180 @@
+<html>
+<head>
+<title>TestNG:  Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>20/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Thu Feb 29 17:39:21 IST 2024</td>
+</tr>
+<tr><td>Total time:</td><td>298 seconds (298040 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td><b>Attribute(s)</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='testCases.TC_003_ForEnterpriseTest.reachForm()'><b>reachForm</b><br>Test class: testCases.TC_003_ForEnterpriseTest</td>
+<td></td>
+<td>116</td>
+<td>testCases.TC_003_ForEnterpriseTest@6c451c9c</td></tr>
+<tr>
+<td title='testCases.TC_003_ForEnterpriseTest.captureError()'><b>captureError</b><br>Test class: testCases.TC_003_ForEnterpriseTest</td>
+<td></td>
+<td>0</td>
+<td>testCases.TC_003_ForEnterpriseTest@6c451c9c</td></tr>
+<tr>
+<td title='testCases.TC_001_WebDevelopmentTest.selectLevel()'><b>selectLevel</b><br>Test class: testCases.TC_001_WebDevelopmentTest</td>
+<td></td>
+<td>1</td>
+<td>testCases.TC_001_WebDevelopmentTest@2102a4d5</td></tr>
+<tr>
+<td title='testCases.TC_001_WebDevelopmentTest.tabSwitchSecondCourse()'><b>tabSwitchSecondCourse</b><br>Test class: testCases.TC_001_WebDevelopmentTest</td>
+<td></td>
+<td>0</td>
+<td>testCases.TC_001_WebDevelopmentTest@2102a4d5</td></tr>
+<tr>
+<td title='testCases.TC_003_ForEnterpriseTest.submit()'><b>submit</b><br>Test class: testCases.TC_003_ForEnterpriseTest</td>
+<td></td>
+<td>0</td>
+<td>testCases.TC_003_ForEnterpriseTest@6c451c9c</td></tr>
+<tr>
+<td title='testCases.TC_001_WebDevelopmentTest.scrollAfterLevelSelection()'><b>scrollAfterLevelSelection</b><br>Test class: testCases.TC_001_WebDevelopmentTest</td>
+<td></td>
+<td>0</td>
+<td>testCases.TC_001_WebDevelopmentTest@2102a4d5</td></tr>
+<tr>
+<td title='testCases.TC_001_WebDevelopmentTest.selectLanguage()'><b>selectLanguage</b><br>Test class: testCases.TC_001_WebDevelopmentTest</td>
+<td></td>
+<td>6</td>
+<td>testCases.TC_001_WebDevelopmentTest@2102a4d5</td></tr>
+<tr>
+<td title='testCases.TC_001_WebDevelopmentTest.tabSwitchDefaultPage()'><b>tabSwitchDefaultPage</b><br>Test class: testCases.TC_001_WebDevelopmentTest</td>
+<td></td>
+<td>0</td>
+<td>testCases.TC_001_WebDevelopmentTest@2102a4d5</td></tr>
+<tr>
+<td title='testCases.TC_002_LanguageLearningTest.ExtractLanguages()'><b>ExtractLanguages</b><br>Test class: testCases.TC_002_LanguageLearningTest</td>
+<td></td>
+<td>4</td>
+<td>testCases.TC_002_LanguageLearningTest@6e33c391</td></tr>
+<tr>
+<td title='testCases.TC_001_WebDevelopmentTest.scrollAfterLanguageSelection()'><b>scrollAfterLanguageSelection</b><br>Test class: testCases.TC_001_WebDevelopmentTest</td>
+<td></td>
+<td>0</td>
+<td>testCases.TC_001_WebDevelopmentTest@2102a4d5</td></tr>
+<tr>
+<td title='testCases.TC_001_WebDevelopmentTest.tabSwitchDefaultPageAgain()'><b>tabSwitchDefaultPageAgain</b><br>Test class: testCases.TC_001_WebDevelopmentTest</td>
+<td></td>
+<td>0</td>
+<td>testCases.TC_001_WebDevelopmentTest@2102a4d5</td></tr>
+<tr>
+<td title='testCases.TC_001_WebDevelopmentTest.tabSwitchFirstCourse()'><b>tabSwitchFirstCourse</b><br>Test class: testCases.TC_001_WebDevelopmentTest</td>
+<td></td>
+<td>0</td>
+<td>testCases.TC_001_WebDevelopmentTest@2102a4d5</td></tr>
+<tr>
+<td title='testCases.TC_003_ForEnterpriseTest.fillForm()'><b>fillForm</b><br>Test class: testCases.TC_003_ForEnterpriseTest</td>
+<td></td>
+<td>5</td>
+<td>testCases.TC_003_ForEnterpriseTest@6c451c9c</td></tr>
+<tr>
+<td title='testCases.TC_001_WebDevelopmentTest.clickOnSecondCourse()'><b>clickOnSecondCourse</b><br>Test class: testCases.TC_001_WebDevelopmentTest</td>
+<td></td>
+<td>0</td>
+<td>testCases.TC_001_WebDevelopmentTest@2102a4d5</td></tr>
+<tr>
+<td title='testCases.TC_002_LanguageLearningTest.ExtractLevels()'><b>ExtractLevels</b><br>Test class: testCases.TC_002_LanguageLearningTest</td>
+<td></td>
+<td>0</td>
+<td>testCases.TC_002_LanguageLearningTest@6e33c391</td></tr>
+<tr>
+<td title='testCases.TC_001_WebDevelopmentTest.Course2Details()'><b>Course2Details</b><br>Test class: testCases.TC_001_WebDevelopmentTest</td>
+<td></td>
+<td>0</td>
+<td>testCases.TC_001_WebDevelopmentTest@2102a4d5</td></tr>
+<tr>
+<td title='testCases.TC_002_LanguageLearningTest.searchLanguage()'><b>searchLanguage</b><br>Test class: testCases.TC_002_LanguageLearningTest</td>
+<td></td>
+<td>6</td>
+<td>testCases.TC_002_LanguageLearningTest@6e33c391</td></tr>
+<tr>
+<td title='testCases.TC_001_WebDevelopmentTest.enterCourseNameAndSearch()'><b>enterCourseNameAndSearch</b><br>Test class: testCases.TC_001_WebDevelopmentTest</td>
+<td></td>
+<td>40</td>
+<td>testCases.TC_001_WebDevelopmentTest@2102a4d5</td></tr>
+<tr>
+<td title='testCases.TC_001_WebDevelopmentTest.Course1Details()'><b>Course1Details</b><br>Test class: testCases.TC_001_WebDevelopmentTest</td>
+<td></td>
+<td>1</td>
+<td>testCases.TC_001_WebDevelopmentTest@2102a4d5</td></tr>
+<tr>
+<td title='testCases.TC_001_WebDevelopmentTest.clickOnFirstCourse()'><b>clickOnFirstCourse</b><br>Test class: testCases.TC_001_WebDevelopmentTest</td>
+<td></td>
+<td>1</td>
+<td>testCases.TC_001_WebDevelopmentTest@2102a4d5</td></tr>
+</table><p>
+</body>
+</html>

@@ -1,0 +1,51 @@
+17:37:02.094 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2304096\eclipse-workspace\Hackathon\testng.xml
+
+17:37:35.372 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - enterCourseNameAndSearch
+17:38:03.597 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - selectLanguage
+17:38:11.780 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - scrollAfterLanguageSelection
+17:38:11.840 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - selectLevel
+17:38:11.888 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - scrollAfterLevelSelection
+17:38:11.943 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - Click on First Course
+17:39:21.360 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2304096\eclipse-workspace\Hackathon\testng.xml
+
+17:39:45.936 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - enterCourseNameAndSearch
+17:40:26.409 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - selectLanguage
+17:40:32.981 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - scrollAfterLanguageSelection
+17:40:34.408 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - selectLevel
+17:40:35.814 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - scrollAfterLevelSelection
+17:40:36.003 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - Click on First Course
+17:40:38.630 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - TabSwitch to First Course
+17:41:19.989 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - Course1printDetails
+17:41:21.992 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - TabSwitch to Default Page
+17:41:22.440 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - Click on Second Course
+17:41:23.066 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - TabSwitch to Second Course
+17:41:59.009 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - Course2printDetails
+17:42:00.625 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - Again TabSwitch to Default Page
+17:42:01.188 [main] INFO  testBase.BaseClass - Starting TC_002_LanguageLearningTest - searchLanguage
+17:42:07.717 [main] INFO  testBase.BaseClass - Starting TC_002_LanguageLearningTest - ExtractLanguages
+17:42:12.655 [main] INFO  testBase.BaseClass - Starting TC_002_LanguageLearningTest - ExtractLevels
+17:42:13.638 [main] INFO  testBase.BaseClass - Starting TC_003_LanguageLearningTest - reachForm
+17:44:10.986 [main] INFO  testBase.BaseClass - Starting TC_003_LanguageLearningTest - fillForm
+17:44:17.161 [main] INFO  testBase.BaseClass - Starting TC_003_LanguageLearningTest - Submit Button
+17:44:17.877 [main] INFO  testBase.BaseClass - Starting TC_003_LanguageLearningTest - captureError
+18:03:08.797 [main] INFO  factory.BaseClass - Starting TC_001_WebDevelopment - Coursera Home Page
+18:03:09.882 [main] INFO  factory.BaseClass - Starting TC_001_WebDevelopment - Searching web Development
+18:03:19.503 [main] INFO  factory.BaseClass - Starting TC_001_WebDevelopment - Selecting English Language
+18:03:22.693 [main] INFO  factory.BaseClass - Starting TC_001_WebDevelopment - Selecting Beginner Level
+18:03:25.224 [main] INFO  factory.BaseClass - Starting TC_001_WebDevelopment - Extracting Details for First Course
+18:04:04.925 [main] INFO  factory.BaseClass - Starting TC_001_WebDevelopment - Extracting Details for Second Course
+18:05:08.064 [main] INFO  factory.BaseClass - Starting TC_001_WebDevelopment - Searching Language Learning
+18:05:22.654 [main] INFO  factory.BaseClass - Starting TC_001_WebDevelopment - Extracting Languages
+18:05:29.482 [main] INFO  factory.BaseClass - Starting TC_001_WebDevelopment - Extracting Levels
+18:05:50.883 [main] INFO  factory.BaseClass - Starting TC_001_WebDevelopment - Enterprise Section
+18:07:09.200 [main] INFO  factory.BaseClass - Starting TC_001_WebDevelopment - Filling Form With incorrect Email
+18:07:13.499 [main] INFO  factory.BaseClass - Starting TC_001_WebDevelopment - Capturing Error message
+14:44:43.348 [main] INFO  factory.BaseClass - Starting TC_001_WebDevelopment - Enterprise Section
+14:45:18.750 [main] INFO  factory.BaseClass - Starting TC_001_WebDevelopment - Filling Form With incorrect Email
+14:45:22.908 [main] INFO  factory.BaseClass - Starting TC_001_WebDevelopment - Capturing Error message
+14:47:20.075 [main] INFO  factory.BaseClass - Starting TC_001_WebDevelopment - Enterprise Section
+14:51:29.619 [main] INFO  factory.BaseClass - Starting TC_001_WebDevelopment - Enterprise Section
+14:51:58.999 [main] INFO  factory.BaseClass - Starting TC_001_WebDevelopment - Filling Form With incorrect Email
+14:52:06.182 [main] INFO  factory.BaseClass - Starting TC_001_WebDevelopment - Capturing Error message

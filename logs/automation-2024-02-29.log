@@ -1,0 +1,52 @@
+17:09:07.624 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - Course1printDetails
+17:09:07.687 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - TabSwitch to Default Page
+17:09:07.731 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - Click on Second Course
+17:10:41.992 [main] WARN  org.testng.internal.Configuration - Detected a static method [testBase.BaseClass.initilizeBrowser()]. Static configuration methods can cause unexpected behavior.
+17:10:42.023 [main] WARN  org.testng.internal.Configuration - Detected a static method [testBase.BaseClass.initilizeBrowser()]. Static configuration methods can cause unexpected behavior.
+17:10:42.040 [main] WARN  org.testng.internal.Configuration - Detected a static method [testBase.BaseClass.initilizeBrowser()]. Static configuration methods can cause unexpected behavior.
+17:10:42.096 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2304096\eclipse-workspace\Hackathon\testng.xml
+
+17:10:52.356 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - enterCourseNameAndSearch
+17:11:24.638 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - selectLanguage
+17:12:27.988 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - scrollAfterLanguageSelection
+17:12:28.128 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - selectLevel
+17:12:52.061 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2304096\eclipse-workspace\Hackathon\testng.xml
+
+17:12:58.369 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - scrollAfterLevelSelection
+17:12:58.548 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - Click on First Course
+17:13:02.095 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - enterCourseNameAndSearch
+17:13:33.843 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - selectLanguage
+17:13:58.926 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - TabSwitch to First Course
+17:13:59.105 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - Course1printDetails
+17:14:29.439 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - TabSwitch to Default Page
+17:14:29.634 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - Click on Second Course
+17:14:34.899 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - TabSwitch to Second Course
+17:14:34.976 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - Course2printDetails
+17:14:35.060 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - Again TabSwitch to Default Page
+17:14:35.115 [main] INFO  testBase.BaseClass - Starting TC_002_LanguageLearningTest - searchLanguage
+17:14:35.187 [main] INFO  testBase.BaseClass - Starting TC_002_LanguageLearningTest - ExtractLanguages
+17:14:35.270 [main] INFO  testBase.BaseClass - Starting TC_002_LanguageLearningTest - ExtractLevels
+17:14:35.321 [main] INFO  testBase.BaseClass - Starting TC_003_LanguageLearningTest - reachForm
+17:14:35.378 [main] INFO  testBase.BaseClass - Starting TC_003_LanguageLearningTest - fillForm
+17:14:35.565 [main] INFO  testBase.BaseClass - Starting TC_003_LanguageLearningTest - Submit Button
+17:14:35.617 [main] INFO  testBase.BaseClass - Starting TC_003_LanguageLearningTest - captureError
+17:14:37.278 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - scrollAfterLanguageSelection
+17:14:37.447 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - selectLevel
+17:14:38.555 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - scrollAfterLevelSelection
+17:14:38.612 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - Click on First Course
+17:15:27.675 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2304096\eclipse-workspace\Hackathon\testng.xml
+
+17:15:51.451 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - enterCourseNameAndSearch
+17:16:28.979 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - selectLanguage
+17:16:35.933 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - scrollAfterLanguageSelection
+17:16:36.726 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - selectLevel
+17:16:39.760 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - scrollAfterLevelSelection
+17:16:41.692 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - Click on First Course
+17:16:42.771 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - TabSwitch to First Course
+17:17:22.391 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - Course1printDetails
+17:17:25.862 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - TabSwitch to Default Page
+17:17:26.605 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - Click on Second Course
+17:17:28.879 [main] INFO  testBase.BaseClass - Starting TC_001_WebDevelopment - TabSwitch to Second Course
